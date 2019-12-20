@@ -1,0 +1,39 @@
+<style type="text/css">
+
+#t3 {
+	padding-top: 50px;
+	margin-top: 0px;
+	
+
+}
+
+
+#t2 img{
+	float: left;
+	height: 300px;
+	width: 250px;
+	font-family: ;
+	
+}
+
+#t2 pre{
+	font-size: 15px;
+	padding-left: 280px;
+	padding-top: 40px;
+}
+
+.c1 hr{
+	margin-top: 220px;
+}
+	
+.c1 hr:nth-child(2,3,4,5,6,7){
+	margin-top: 220px;
+}
+
+#t2 img:hover{
+	border: 2px solid gray;
+}
+
+
+
+</style>
